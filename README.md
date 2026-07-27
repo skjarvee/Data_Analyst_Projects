@@ -13,5 +13,7 @@ I'm going to create three layer for this data warehouse.
 
 
 Broze Layer:
-      
+      1. Created the database and schemas for the project.
+      2. created tables.
+              a.
       
