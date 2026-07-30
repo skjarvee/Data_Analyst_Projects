@@ -1,4 +1,4 @@
-# SQL Data Warehousing and Analyst Projects_#1
+# SQL Data Warehouse and Analyst Projects_#1
 Projects for data analysis
 
 First creating a data warehouse to store the data for the analysis.
