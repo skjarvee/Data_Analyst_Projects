@@ -5,8 +5,12 @@ Quality Check for Silver layer
 Purpose:
 This script checks the data quality, data consistency for the silver layer
 These are the checks
-  - Nulls 
-
+  - Nulls & Duplicates
+  - Data normalization & standardisation
+  - Unwanted Space fixing
+  - Invaild Date
+  - Data Consistency
+  - Fixing Data Types
 
 Note:
 1. Do these quality checks after loading data into silver layer
