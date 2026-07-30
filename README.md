@@ -10,7 +10,7 @@ I'm going to create three layer for this data warehouse.
   
   3.Gold Layer   : Get data from silver layer after the ETL process is done. In this layer , i will do modeling, normalization, standardisatio and make the data ready for analysis.
 
-==============================================================================
+===========================================================================
 
 Broze Layer:
  1. Created the database and schemas for the project.
@@ -21,7 +21,7 @@ Broze Layer:
  
  I didn't use any code to load data, since i use pgadmin, its hard to create the script for loading the data in posgtres. so i have used IMPORT option in pgadmin.
  
-==============================================================================
+===========================================================================
 
 Silver Layer:
 
