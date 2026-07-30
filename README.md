@@ -19,4 +19,9 @@ Broze Layer:
  
  I got the data fromm two source. each source has three table. So i have created 6 tables and loaded data into each table and checked the data row counts by comparing with source csv file.
  I didn't use any code to load data, since i use pgadmin, its hard to create the script for loading the data in posgtres. so i have used IMPORT option in pgadmin.
+
+Silver Layer:
+Loaded the cleaned and transformed data into silver layer.
+ETL process is done in this layer.
+
       
